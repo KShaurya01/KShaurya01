@@ -27,4 +27,4 @@ I am a Full-Stack Developer passionate about building scalable and efficient app
 
 *   **Email:** kunalshaurya112113@gmail.com  
 *   **Phone:** +91 6202979489  
-*   **LinkedIn:** [Your LinkedIn Profile](#)  
+*   **LinkedIn:** linkedin.com/in/kunal-shaurya-b58486256  
